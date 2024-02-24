@@ -13,7 +13,7 @@ In diesem Lab konfigurieren Sie Formulare und Ansichten für eine modellgesteuer
 Contoso Real Estate verfolgt zwei Schlüsselziele:
 
 - Immobilienanzeigen
-- Wer ist für die Anzeige von Immobilien eingeplant?
+- Wer ist für die Besichtigung von Immobilien eingeplant?
 
 ## Lernziele
 
@@ -34,7 +34,7 @@ Contoso Real Estate verfolgt zwei Schlüsselziele:
   
 ## Voraussetzungen
 
-- Sie müssen **Lab 2: Datenmodell** abgeschlossen haben.
+- Sie müssen **Lab 2: Datenmodell** abgeschlossen haben
 
 ## Ausführliche Schritte
 
@@ -50,7 +50,7 @@ In dieser Übung ändern Sie das Hauptformular für die Tabelle „Real Estate P
 
 1. Wählen Sie **Lösungen** aus.
 
-1. Öffnen Sie die Lösung **Property listings** (Immobilienanzeigen).
+1. Öffnen Sie die Lösung **Immobilienanzeigen**.
 
 1. Wählen Sie die Tabelle **Real Estate Property** (Immobilie) aus.
 
@@ -181,6 +181,8 @@ In dieser Übung ändern Sie das Hauptformular für die Tabelle „Real Estate P
 
 1. **Schließen** Sie den Formular-Designer.
 
+1. Wählen Sie **Fertig** aus.
+
 
 ## Übung 2: Anzeigen des Hauptformulars
 
@@ -224,6 +226,8 @@ In dieser Übung ändern Sie das Hauptformular für die Tabelle „Showings“ (
 
 1. **Schließen** Sie den Formular-Designer.
 
+1. Wählen Sie **Fertig** aus.
+
 
 ## Übung 3: Mehrere Formulare
 
@@ -251,7 +255,9 @@ In dieser Übung erstellen Sie ein neues Formular und beschränken den Zugriff m
 
 1. Wählen Sie die Tabelle **Showings** (Anzeigen) viermal aus, um die Zugriffsebene für alle Berechtigungen in **Organisation** zu ändern.
 
-1. Wählen Sie **Speichern und Schließen**. Wählen Sie in der Lösung **Fertig** aus, um die Änderungen abzurufen.
+1. Klicken Sie auf **Speichern und schließen**.
+
+1. Klicken Sie auf **Fertig**.
 
 
 ### Aufgabe 3.2: Kopieren des Formulars
@@ -280,7 +286,9 @@ In dieser Übung erstellen Sie ein neues Formular und beschränken den Zugriff m
 
 1. Wählen Sie **Speichern und veröffentlichen** aus.
 
-1. **Schließen** Sie den Formular-Designer, und wählen Sie **Fertig** aus.
+1. **Schließen** Sie den Formular-Designer.
+
+1. Wählen Sie **Fertig** aus.
 
 
 ## Übung 4: Immobilienansichten
@@ -295,7 +303,7 @@ In dieser Übung ändern Sie die Ansichten für die Tabelle „Real Estate Prope
 
 1. Wählen Sie **Lösungen** aus.
 
-1. Öffnen Sie die Lösung **Property listings** (Immobilienanzeigen).
+1. Öffnen Sie die Lösung **Immobilienanzeigen**.
 
 1. Wählen Sie die Tabelle **Real Estate Property** (Immobilie) aus.
 
@@ -323,16 +331,18 @@ In dieser Übung ändern Sie die Ansichten für die Tabelle „Real Estate Prope
 
 1. Wählen Sie **Speichern und veröffentlichen** aus.
 
-1. **Schließen** Sie den Ansichts-Designer, und wählen Sie **Fertig** aus.
+1. **Schließen** Sie den Ansichts-Designer.
+
+1. Wählen Sie **Fertig** aus.
 
 
 ### Aufgabe 4.2: Ansicht für die Schnellsuche nach Immobilien
 
-1. Wählen Sie die Ansicht **Quick Find Real Estate Properties** (Schnellsuche nach Immobilienanzeigen), anschließend das Menü **Befehle** (...) und dann **Bearbeiten** > **Auf neuer Registerkarte bearbeiten** aus.
+1. Wählen Sie die Ansicht **Quick Find Aktive Real Estate Properties** (Schnellsuche nach aktive Immobilienanzeigen), anschließend das Menü **Befehle** (...) und dann **Bearbeiten** > **Auf neuer Registerkarte bearbeiten** aus.
 
 1. Wählen Sie das Caretzeichen neben der Spalte **Created on** (Erstellungsdatum) und dann **Entfernen** aus.
 
-1. Wählen Sie im Bereich **Quick Find Real Estate Properties** (Schnellsuche nach Immobilienanzeigen) auf der rechten Seite unter **Suchen nach** die Option **Tabellenspalten für die Suche bearbeiten** aus.
+1. Wählen Sie im Bereich **Quick Find Active Real Estate Properties** (Schnellsuche nach aktiven Immobilienanzeigen) auf der rechten Seite unter **Suchen nach** die Option **Tabellenspalten für die Suche bearbeiten** aus.
 
 1. Wählen Sie die folgenden Spalten und dann **Übernehmen** aus.
 
@@ -342,7 +352,9 @@ In dieser Übung ändern Sie die Ansichten für die Tabelle „Real Estate Prope
 
 1. Wählen Sie **Speichern und veröffentlichen** aus.
 
-1. **Schließen** Sie den Ansichts-Designer, und wählen Sie **Fertig** aus.
+1. **Schließen** Sie den Ansichts-Designer.
+
+1. Wählen Sie **Fertig** aus.
 
 
 ## Übung 5: Anzeigen von Ansichten
@@ -404,6 +416,6 @@ In dieser Übung ändern Sie die Ansichten für die Tabelle „Showings“ (Anze
 
 1. Wählen Sie **Speichern und veröffentlichen** aus.
 
-1. **Schließen** Sie den Ansichts-Designer, und wählen Sie **Fertig** aus.
+1. **Schließen** Sie den Ansichts-Designer.
 
-
+1. Wählen Sie **Fertig** aus.
