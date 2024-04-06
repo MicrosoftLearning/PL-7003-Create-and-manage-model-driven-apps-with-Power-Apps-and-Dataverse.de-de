@@ -69,14 +69,14 @@ In dieser Übung erstellen Sie Tabellen und fügen sie der Lösung hinzu.
 
 1. Aktivieren Sie das Kontrollkästchen **In Suchergebnissen anzeigen**.
 
-    ![Screenshot der erweiterten Optionen der Tabelle.](../media/table-options.png)
+    ![Screenshot der erweiterten Tabellenoptionen](../media/table-options.png)
 
 1. Wählen Sie **Speichern**.
 
 
 ### Aufgabe 1.2 – Tabelle „Showing“ erstellen
 
-1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
+1. Wählen Sie im Bereich **Objekte** die Option **Alle** aus.
 
 1. Wählen Sie zunächst **+ Neu** und dann **Tabelle** und anschließend erneut **Tabelle** aus.
 
@@ -91,7 +91,7 @@ In dieser Übung erstellen Sie Tabellen und fügen sie der Lösung hinzu.
 
 ### Aufgabe 1.3 – Tabelle „Open House“ erstellen
 
-1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
+1. Wählen Sie im Bereich **Objekte** die Option **Alle** aus.
 
 1. Wählen Sie zunächst **+ Neu** und dann **Tabelle** und anschließend erneut **Tabelle** aus.
 
@@ -106,7 +106,7 @@ In dieser Übung erstellen Sie Tabellen und fügen sie der Lösung hinzu.
 
 ### Aufgabe 1.4 – Tabelle „Contact“ hinzufügen
 
-1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
+1. Wählen Sie im Bereich **Objekte** die Option **Alle** aus.
 
 1. Wählen Sie zunächst **Vorhandene hinzufügen** und dann **Tabelle** aus.
 
@@ -216,7 +216,7 @@ In dieser Übung erstellen Sie Spalten für die Tabellen für die Lösung.
 
 ### Aufgabe 2.2 – „Showing“-Spalten erstellen
 
-1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
+1. Wählen Sie im Bereich **Objekte** die Option **Alle** aus.
 
 1. Wählen Sie die Tabelle **Showing** aus.
 
@@ -238,7 +238,7 @@ In dieser Übung erstellen Sie Spalten für die Tabellen für die Lösung.
 
 1. Geben Sie für **Anzeigename** `Comments` ein.
 
-1. Wählen Sie zunächst **Text ** in der Dropdownliste **Datentyp** und dann unter**Mehrere Textzeilen** die Option **Nur-Text** aus.
+1. Wählen Sie zunächst **Text ** in der Dropdownliste **Datentyp** und dann unter **Mehrere Textzeilen** die Option **Nur-Text** aus.
 
 1. Wählen Sie **Speichern**.
 
@@ -266,14 +266,14 @@ In dieser Übung erstellen Sie Spalten für die Tabellen für die Lösung.
 
 1. Wählen Sie **Lookup** in der Dropdownliste **Datentyp** und dann erneut **Lookup** aus.
 
-1. Wählen Sie in der Dropdownliste **Verwandte Tabelle**die Option **Benutzer** aus.
+1. Wählen Sie in der Dropdownliste **Verwandte Tabelle** die Option **Benutzer** aus.
 
 1. Wählen Sie **Speichern**.
 
 
 ### Aufgabe 2.3 – „Open House“-Spalten erstellen
 
-1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
+1. Wählen Sie im Bereich **Objekte** die Option **Alle** aus.
 
 1. Wählen Sie die Tabelle **Open House** aus.
 
@@ -349,7 +349,7 @@ In dieser Übung erstellen Sie Beziehungen zwischen den Tabellen zu der Lösung.
 
 ### Aufgabe 3.4 – Beziehung von „Showing“ zu „Contact“
 
-1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
+1. Wählen Sie im Bereich **Objekte** die Option **Alle** aus.
 
 1. Wählen Sie die Tabelle **Showing** aus.
 
