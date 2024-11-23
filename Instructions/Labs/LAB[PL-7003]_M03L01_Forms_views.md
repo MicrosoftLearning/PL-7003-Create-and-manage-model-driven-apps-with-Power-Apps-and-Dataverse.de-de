@@ -157,7 +157,7 @@ In dieser Übung ändern Sie das Hauptformular für die Tabelle „Real Estate P
 
 1. Wählen Sie das Steuerelement **Registerkarte mit 1 Spalte** aus, um es im Formular hinzuzufügen.
 
-1. Geben Sie als **Bezeichnung** `Showings`und als**Bezeichnung** `showingTab` ein.
+1. Geben Sie als **Bezeichnung** `Showings`und als**Name** `showingTab` ein.
 
 1. Wählen Sie im Formular-Designer auf der linken Seite die **Strukturansicht** aus, erweitern Sie die Registerkarte **Showings** (Anzeigen), und wählen Sie den Abschnitt **Neuer Abschnitt** aus.
 
@@ -247,13 +247,13 @@ In dieser Übung erstellen Sie ein neues Formular und beschränken den Zugriff m
 
 1. Geben Sie als **Rollennamen** `Property admin` ein.
 
-1. Wählen Sie die Registerkarte **Benutzerdefinierte Entitäten** aus.
+1. Blättern Sie nach unten zum Abschnitt **Benutzerdefinierte Tabellen**.
 
-1. Wählen Sie die Tabelle **Real Estate Property** (Immobilien) viermal aus, um die Zugriffsebene für alle Berechtigungen in **Organisation** zu ändern.
+1. Wählen Sie die Tabelle **Real Estate Property** aus. Ändern Sie die Zugriffsebene für alle Berechtigungen auf **Organisation**.
 
     ![Berechtigungen für „Real Estate Propery“ in Sicherheitsrolle.](../media/security-role.png)
 
-1. Wählen Sie die Tabelle **Showings** (Anzeigen) viermal aus, um die Zugriffsebene für alle Berechtigungen in **Organisation** zu ändern.
+1. Wählen Sie die Tabelle **Showing** aus. Ändern Sie die Zugriffsebene für alle Berechtigungen auf **Organisation**.
 
 1. Klicken Sie auf **Speichern und schließen**.
 
