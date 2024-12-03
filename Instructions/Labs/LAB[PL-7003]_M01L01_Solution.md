@@ -89,7 +89,7 @@ In dieser Übung fügen Sie der Lösung eine vorhandene Tabelle hinzu.
 
 1. Wählen Sie **Lösungen** aus.
 
-1. Wählen Sie die **Contoso Real Estate**-Lösung aus der vorherigen Übung aus.
+1. Wählen Sie die Lösung **Immobilienanzeigen** aus der vorherigen Übung aus.
 
     ![Lösungsobjekte der Eigenschaftsauflistung.](../media/solution-objects.png)
 

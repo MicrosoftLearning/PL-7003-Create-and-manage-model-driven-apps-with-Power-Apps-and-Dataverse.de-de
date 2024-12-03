@@ -66,6 +66,8 @@ In dieser Übung exportieren Sie die Lösung aus der Entwicklungsumgebung.
 
 1. Wählen Sie **Weiter** aus.
 
+1. Wählen Sie erneut **Weiter** aus.
+
 1. Die Versionsnummer sollte auf **1.0.0.1** erhöht worden sein.
 
     ![Exportbereich der Lösung.](../media/export-solution.png)
@@ -82,6 +84,8 @@ In dieser Übung exportieren Sie die Lösung aus der Entwicklungsumgebung.
 1. Wählen Sie **Exportieren**.
 
 1. Wählen Sie **Weiter** aus.
+
+1. Wählen Sie erneut **Weiter** aus.
 
 1. Die Versionsnummer sollte auf **1.0.0.2** erhöht worden sein.
 

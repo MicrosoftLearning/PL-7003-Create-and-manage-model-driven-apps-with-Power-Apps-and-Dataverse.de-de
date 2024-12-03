@@ -65,8 +65,6 @@ In dieser Übung erstellen Sie eine modellgesteuerte App.
 
 1. Wählen Sie **Dataverse-Tabelle** aus.
 
-1. Wählen Sie **Weiter** aus.
-
 1. Geben Sie `cre` in das **Suchfeld** ein.
 
     ![Screenshot des Dialogfelds zum Hinzufügen einer Seite zur modellgesteuerten App](../media/mda-add-tables.png)

@@ -51,7 +51,7 @@ In dieser Übung konfigurieren Sie die Navigation und Tabellen für eine modellg
 
 1. Geben Sie im Eigenschaftenbereich `Clients` als **Titel** ein.
 
-1. Wählen Sie **Navigation**, das Menü **Befehle** (…) **…** und dann **Neue Gruppe** aus.
+1. Wählen Sie **Navigation** aus, wählen Sie das Menü **Befehle** (...) und dann **Neue Gruppe** aus.
 
 1. Geben Sie im Eigenschaftenbereich `Properties` als **Titel** ein.
 
