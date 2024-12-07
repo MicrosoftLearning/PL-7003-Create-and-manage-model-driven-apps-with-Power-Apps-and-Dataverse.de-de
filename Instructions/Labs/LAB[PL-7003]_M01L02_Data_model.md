@@ -13,7 +13,7 @@ In diesem Lab erstellen Sie Dataverse-Tabellen, -Spalten und -Beziehungen.
 Contoso Real Estate möchte zwei Schlüsselziele verfolgen:
 
 - Immobilienanzeigen
-- Wer ist für die Anzeige von Immobilien eingeplant?
+- Wer ist für die Besichtigung von Immobilien eingeplant?
 
 ## Lernziele
 
@@ -41,21 +41,21 @@ In dieser Übung erstellen Sie Tabellen und fügen sie der Lösung hinzu.
 
 1. Navigieren Sie zum Power Apps Maker-Portal `https://make.powerapps.com`
 
-1. Stellen Sie sicher, dass Sie sich in der Umgebung **Dev One** befinden.
+1. Stellen Sie sicher, dass Sie sich in der Umgebung **Dev One** befinden.
 
 1. Wählen Sie **Lösungen** aus.
 
 1. Öffnen Sie die Lösung **Immobilienanzeigen**.
 
-1. Wählen Sie zunächst **+ Neu** und dann **Tabelle** und anschließend erneut **Tabelle** aus.
+1. Wählen Sie **+ Neu** und dann **Tabelle** und wählen Sie **Erweiterte Eigenschaften festlegen**.
 
     ![Screenshot des Bereichs „Neue Tabelle“](../media/new-table-pane.png)
 
-1. Geben Sie `Real Estate Property` für **Anzeigename** ein. Der Pluralname wird automatisch ausgefüllt.
+1. Geben Sie für **Anzeigename** `Real Estate Property` ein. Der Pluralname wird automatisch ausgefüllt.
 
 1. Wählen Sie die Registerkarte **Primärspalte** aus.
 
-1. Geben Sie `Property Name` für **Anzeigename** ein.
+1. Geben Sie für **Anzeigename** `Property Name` ein.
 
 1. Erweitern Sie **Erweiterte Optionen**, überprüfen Sie die verfügbaren Optionen, ändern Sie hier jedoch nichts.
 
@@ -69,18 +69,18 @@ In dieser Übung erstellen Sie Tabellen und fügen sie der Lösung hinzu.
 
 1. Aktivieren Sie das Kontrollkästchen **In Suchergebnissen anzeigen**.
 
-    ![Screenshot der erweiterten Tabellenoptionen](../media/table-options.png)
+    ![Screenshot der erweiterten Optionen der Tabelle.](../media/table-options.png)
 
 1. Wählen Sie **Speichern**.
 
 
 ### Aufgabe 1.2 – Tabelle „Showing“ erstellen
 
-1. Wählen Sie im Bereich **Objekte** die Option **Alle** aus.
+1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
 
-1. Wählen Sie zunächst **+ Neu** und dann **Tabelle** und anschließend erneut **Tabelle** aus.
+1. Wählen Sie **+ Neu** und dann **Tabelle** und wählen Sie **Erweiterte Eigenschaften festlegen**.
 
-1. Geben Sie `Showing` für **Anzeigename** ein. Der Pluralname wird automatisch ausgefüllt.
+1. Geben Sie für **Anzeigename** `Showing` ein. Der Pluralname wird automatisch ausgefüllt.
 
 1. Erweitern Sie **Erweiterte Optionen**.
 
@@ -91,11 +91,11 @@ In dieser Übung erstellen Sie Tabellen und fügen sie der Lösung hinzu.
 
 ### Aufgabe 1.3 – Tabelle „Open House“ erstellen
 
-1. Wählen Sie im Bereich **Objekte** die Option **Alle** aus.
+1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
 
-1. Wählen Sie zunächst **+ Neu** und dann **Tabelle** und anschließend erneut **Tabelle** aus.
+1. Wählen Sie **+ Neu** und dann **Tabelle** aus und wählen Sie erneut **Erweiterte Eigenschaften festlegen** aus.
 
-1. Geben Sie `Open House` für **Anzeigename** ein. Der Pluralname wird automatisch ausgefüllt.
+1. Geben Sie für **Anzeigename** `Open House` ein. Der Pluralname wird automatisch ausgefüllt.
 
 1. Erweitern Sie **Erweiterte Optionen**.
 
@@ -106,7 +106,7 @@ In dieser Übung erstellen Sie Tabellen und fügen sie der Lösung hinzu.
 
 ### Aufgabe 1.4 – Tabelle „Contact“ hinzufügen
 
-1. Wählen Sie im Bereich **Objekte** die Option **Alle** aus.
+1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
 
 1. Wählen Sie zunächst **Vorhandene hinzufügen** und dann **Tabelle** aus.
 
@@ -125,7 +125,7 @@ In dieser Übung erstellen Sie Spalten für die Tabellen für die Lösung.
 
 1. Navigieren Sie zum Power Apps Maker-Portal `https://make.powerapps.com`
 
-1. Stellen Sie sicher, dass Sie sich in der Umgebung **Dev One** befinden.
+1. Stellen Sie sicher, dass Sie sich in der Umgebung **Dev One** befinden.
 
 1. Wählen Sie **Lösungen** aus.
 
@@ -216,7 +216,7 @@ In dieser Übung erstellen Sie Spalten für die Tabellen für die Lösung.
 
 ### Aufgabe 2.2 – „Showing“-Spalten erstellen
 
-1. Wählen Sie im Bereich **Objekte** die Option **Alle** aus.
+1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
 
 1. Wählen Sie die Tabelle **Showing** aus.
 
@@ -238,9 +238,11 @@ In dieser Übung erstellen Sie Spalten für die Tabellen für die Lösung.
 
 1. Geben Sie für **Anzeigename** `Comments` ein.
 
-1. Wählen Sie zunächst **Text ** in der Dropdownliste **Datentyp** und dann unter **Mehrere Textzeilen** die Option **Nur-Text** aus.
+1. Wählen Sie zunächst **Text ** in der Dropdownliste **Datentyp** und dann unter**Mehrere Textzeilen** die Option **Nur-Text** aus.
 
 1. Wählen Sie **Speichern**.
+
+1. Wählen Sie **+ Neue Spalte** aus.
 
 1. Geben Sie für **Anzeigename** `Level of Interest` ein.
 
@@ -266,14 +268,14 @@ In dieser Übung erstellen Sie Spalten für die Tabellen für die Lösung.
 
 1. Wählen Sie **Lookup** in der Dropdownliste **Datentyp** und dann erneut **Lookup** aus.
 
-1. Wählen Sie in der Dropdownliste **Verwandte Tabelle** die Option **Benutzer** aus.
+1. Wählen Sie in der Dropdownliste **Verwandte Tabelle**die Option **Benutzer** aus.
 
 1. Wählen Sie **Speichern**.
 
 
 ### Aufgabe 2.3 – „Open House“-Spalten erstellen
 
-1. Wählen Sie im Bereich **Objekte** die Option **Alle** aus.
+1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
 
 1. Wählen Sie die Tabelle **Open House** aus.
 
@@ -300,7 +302,7 @@ In dieser Übung erstellen Sie Beziehungen zwischen den Tabellen zu der Lösung.
 
 1. Navigieren Sie zum Power Apps Maker-Portal `https://make.powerapps.com`
 
-1. Stellen Sie sicher, dass Sie sich in der Umgebung **Dev One** befinden.
+1. Stellen Sie sicher, dass Sie sich in der Umgebung **Dev One** befinden.
 
 1. Wählen Sie **Lösungen** aus.
 
@@ -349,7 +351,7 @@ In dieser Übung erstellen Sie Beziehungen zwischen den Tabellen zu der Lösung.
 
 ### Aufgabe 3.4 – Beziehung von „Showing“ zu „Contact“
 
-1. Wählen Sie im Bereich **Objekte** die Option **Alle** aus.
+1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
 
 1. Wählen Sie die Tabelle **Showing** aus.
 
