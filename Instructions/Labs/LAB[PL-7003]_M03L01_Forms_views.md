@@ -171,7 +171,7 @@ In dieser Übung ändern Sie das Hauptformular für die Tabelle „Real Estate P
 
 1. Wählen Sie **Verknüpfte Datensätze anzeigen** aus.
 
-1. Wählen Sie für **Tabelle** die Option **Showings** (Anzeigen) und als **Standardansicht** die Option **Active Showings** (Aktive Anzeigen) und danach **Fertig** aus.
+1. Wählen Sie für **Tabelle** die Option **Showings (Immobilien)** (Anzeigen) und als **Standardansicht** die Option **Active Showings** (Aktive Anzeigen) und klicken sie danach auf **Fertig**.
 
 1. Geben Sie als **Bezeichnung** `Showings`und als**Name** `showingsSG` ein.
 

@@ -103,7 +103,7 @@ In dieser Übung fügen Sie der Lösung eine vorhandene Tabelle hinzu.
 
 1. Wählen Sie **Weiter** aus.
 
-1. Wählen Sie unter der Tabelle **Konto** den Link **Objekte auswählen** aus.
+1. Klicken Sie unter der Tabelle **Konto** auf den Link **Objekte bearbeiten**.
 
 1. Wählen Sie auf der Registerkarte **Spalten** die Spalte **Kontonummer** aus.
 
