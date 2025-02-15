@@ -83,6 +83,7 @@ In dieser Übung erstellen Sie eine modellgesteuerte App.
 
 1. Wählen Sie **Veröffentlichen** aus.
 
+    ![Screenshot des Veröffentlichungssymbols.](../media/mda-publish-btn.png)
 
 ### Aufgabe 1.3: Testen
 
