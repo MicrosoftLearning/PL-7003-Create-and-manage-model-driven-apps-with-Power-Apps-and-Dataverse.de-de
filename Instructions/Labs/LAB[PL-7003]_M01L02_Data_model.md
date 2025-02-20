@@ -47,7 +47,7 @@ In dieser Übung erstellen Sie Tabellen und fügen sie der Lösung hinzu.
 
 1. Öffnen Sie die Lösung **Immobilienanzeigen**.
 
-1. Wählen Sie **+ Neu** und dann **Tabelle** und wählen Sie **Erweiterte Eigenschaften festlegen**.
+1. Wählen Sie **+ Neu** und dann **Tabelle** und wählen Sie **Tabelle (erweiterte Eigenschaften)**.
 
     ![Screenshot des Bereichs „Neue Tabelle“](../media/new-table-pane.png)
 
@@ -78,7 +78,7 @@ In dieser Übung erstellen Sie Tabellen und fügen sie der Lösung hinzu.
 
 1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
 
-1. Wählen Sie **+ Neu** und dann **Tabelle** und wählen Sie **Erweiterte Eigenschaften festlegen**.
+1. Wählen Sie **+ Neu** und dann **Tabelle** und wählen Sie **Tabelle (erweiterte Eigenschaften)**.
 
 1. Geben Sie für **Anzeigename** `Showing` ein. Der Pluralname wird automatisch ausgefüllt.
 
@@ -93,7 +93,7 @@ In dieser Übung erstellen Sie Tabellen und fügen sie der Lösung hinzu.
 
 1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
 
-1. Wählen Sie **+ Neu** und dann **Tabelle** aus und wählen Sie erneut **Erweiterte Eigenschaften festlegen** aus.
+1. Wählen Sie **+ Neu** und dann **Tabelle** aus und wählen Sie erneut **Tabelle (erweiterte Eigenschaften)** aus.
 
 1. Geben Sie für **Anzeigename** `Open House` ein. Der Pluralname wird automatisch ausgefüllt.
 
