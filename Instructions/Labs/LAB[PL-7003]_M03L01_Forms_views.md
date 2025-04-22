@@ -247,6 +247,8 @@ In dieser Übung erstellen Sie ein neues Formular und beschränken den Zugriff m
 
 1. Geben Sie als **Rollennamen** `Property admin` ein.
 
+1. Wählen Sie **Unternehmenseinheit** aus und speichern Sie die Auswahl.
+
 1. Blättern Sie nach unten zum Abschnitt **Benutzerdefinierte Tabellen**.
 
 1. Wählen Sie die Tabelle **Real Estate Property** aus. Ändern Sie die Zugriffsebene für alle Berechtigungen auf **Organisation**.
