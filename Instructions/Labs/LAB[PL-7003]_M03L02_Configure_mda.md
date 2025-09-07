@@ -63,7 +63,6 @@ In dieser Übung konfigurieren Sie die Navigation und Tabellen für eine modellg
 
     ![Screenshot: Designer für modellgesteuerte Apps mit Navigation.](../media/mda-navigation.png)
 
-
 ### Aufgabe 1.2 – Einschränken von Ansichten
 
 1. Wählen Sie im Bereich **Navigation** die **Ansicht „Anzeigen“** aus.
@@ -74,9 +73,6 @@ In dieser Übung konfigurieren Sie die Navigation und Tabellen für eine modellg
 
     ![Screenshot: Entfernen einer Ansicht im Designer für modellgesteuerte Apps.](../media/mda-remove-view.png)
 
-1. Wählen Sie **Speichern**.
-
-1. Wählen Sie **Veröffentlichen** aus.
+1. Wählen Sie **Speichern und veröffentlichen** aus.
 
 1. **Schließen** Sie den App-Designer und wählen Sie **Fertig** aus.
-

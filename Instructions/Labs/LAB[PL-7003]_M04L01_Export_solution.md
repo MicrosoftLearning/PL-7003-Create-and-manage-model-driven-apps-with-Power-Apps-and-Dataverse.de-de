@@ -46,7 +46,6 @@ In dieser Übung exportieren Sie die Lösung aus der Entwicklungsumgebung.
 
 1. Wählen Sie **Alle Anpassungen veröffentlichen** aus.
 
-
 ### Aufgabe 1.2 – Lösungsprüfung
 
 1. Wählen Sie in der Lösung die Registerkarte **Übersicht** aus.
@@ -58,7 +57,6 @@ In dieser Übung exportieren Sie die Lösung aus der Entwicklungsumgebung.
     ![Ergebnisseite der Lösungsprüfung.](../media/solution-checker.png)
 
 1. Es sollten keine Warnungen oder Fehler angezeigt werden.
-
 
 ### Aufgabe 1.3 – Verwaltete Lösung exportieren
 
@@ -78,7 +76,6 @@ In dieser Übung exportieren Sie die Lösung aus der Entwicklungsumgebung.
 
 1. Der Export wird im Hintergrund vorbereitet. Wenn die Lösung fertig ist, wählen Sie die Schaltfläche **Herunterladen** aus.
 
-
 ### Aufgabe 1.4 – Nicht verwaltete Lösung exportieren
 
 1. Wählen Sie **Exportieren**.
@@ -96,4 +93,3 @@ In dieser Übung exportieren Sie die Lösung aus der Entwicklungsumgebung.
 1. Wählen Sie **Exportieren**.
 
 1. Der Export wird im Hintergrund vorbereitet. Wenn die Lösung fertig ist, wählen Sie die Schaltfläche **Herunterladen** aus.
-
