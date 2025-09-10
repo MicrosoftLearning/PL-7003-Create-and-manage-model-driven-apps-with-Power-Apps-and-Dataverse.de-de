@@ -29,7 +29,6 @@ Contoso Real Estate verfolgt zwei Schlüsselziele:
 
 - Sie müssen **Lab 2: Datenmodell** abgeschlossen haben
 
-
 ## Ausführliche Schritte
 
 ## Übung 1: Erstellen der modellgesteuerten App
@@ -56,16 +55,13 @@ In dieser Übung erstellen Sie eine modellgesteuerte App.
 
     ![Screenshot des modellgesteuerten App-Designers](../media/mda-designer.png)
 
-
 ### Aufgabe 1.2: Hinzufügen von Tabellen
 
-1. Wählen Sie **+ Seite hinzufügen** aus.
+1. Wählen Sie die Dropdownliste neben **+Seite hinzufügen** und **Dataverse-Tabelle**aus.
 
     ![Screenshot des Dialogfelds zum Hinzufügen einer Seite zur modellgesteuerten App](../media/mda-new-page.png)
 
-1. Wählen Sie **Dataverse-Tabelle** aus.
-
-1. Geben Sie `cre` in das **Suchfeld** ein.
+1. Geben Sie `cre_` in das **Suchfeld** ein.
 
     ![Screenshot des Dialogfelds zum Hinzufügen einer Seite zur modellgesteuerten App](../media/mda-add-tables.png)
 
@@ -79,11 +75,9 @@ In dieser Übung erstellen Sie eine modellgesteuerte App.
 
     ![Screenshot des Designers für modellgesteuerte Apps mit Tabellen](../media/mda-designer-with-tables.png)
 
-1. Wählen Sie **Speichern**.
+1. Wählen Sie **Speichern und veröffentlichen** aus.
 
-1. Wählen Sie **Veröffentlichen** aus.
-
-    ![Screenshot des Veröffentlichungssymbols.](../media/mda-publish-btn.png)
+    ![Screenshot des Symbols „Speichern und Veröffentlichen“.](../media/mda-save-publish-btn.png)
 
 ### Aufgabe 1.3: Testen
 
@@ -119,3 +113,6 @@ In dieser Übung erstellen Sie eine modellgesteuerte App.
 
 1. Wählen Sie **Speichern und schließen** aus.
 
+1. Schließen Sie die App.
+
+1. Wählen Sie **<- Zurück** im App-Designer **Eigenschaftenverwaltung** aus.

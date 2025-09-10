@@ -47,7 +47,7 @@ In dieser Übung erstellen Sie Tabellen und fügen sie der Lösung hinzu.
 
 1. Öffnen Sie die Lösung **Immobilienanzeigen**.
 
-1. Wählen Sie **+ Neu** und dann **Tabelle** und wählen Sie **Tabelle (erweiterte Eigenschaften)**.
+1. Wählen Sie **+ Neu**, dann **Tabelle** und **Tabelle (erweiterte Eigenschaften)** aus.
 
     ![Screenshot des Bereichs „Neue Tabelle“](../media/new-table-pane.png)
 
@@ -73,12 +73,17 @@ In dieser Übung erstellen Sie Tabellen und fügen sie der Lösung hinzu.
 
 1. Wählen Sie **Speichern**.
 
+1. Wählen Sie **Eigenschaften** aus.
+
+    ![Screenshot der Tabelle „Real Estate Property“](../media/real-estate-property-table.png)
+
+1. Aktivieren Sie das Kontrollkästchen **Anlagen aktivieren**, und wählen Sie **Speichern** aus.
 
 ### Aufgabe 1.2 – Tabelle „Showing“ erstellen
 
 1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
 
-1. Wählen Sie **+ Neu** und dann **Tabelle** und wählen Sie **Tabelle (erweiterte Eigenschaften)**.
+1. Wählen Sie **+ Neu**, dann **Tabelle** und **Tabelle (erweiterte Eigenschaften)** aus.
 
 1. Geben Sie für **Anzeigename** `Showing` ein. Der Pluralname wird automatisch ausgefüllt.
 
@@ -88,12 +93,11 @@ In dieser Übung erstellen Sie Tabellen und fügen sie der Lösung hinzu.
 
 1. Wählen Sie **Speichern**.
 
-
 ### Aufgabe 1.3 – Tabelle „Open House“ erstellen
 
 1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
 
-1. Wählen Sie **+ Neu** und dann **Tabelle** aus und wählen Sie erneut **Tabelle (erweiterte Eigenschaften)** aus.
+1. Wählen Sie erneut **+ Neu**, dann **Tabelle** und **Tabelle (erweiterte Eigenschaften)** aus.
 
 1. Geben Sie für **Anzeigename** `Open House` ein. Der Pluralname wird automatisch ausgefüllt.
 
@@ -102,7 +106,6 @@ In dieser Übung erstellen Sie Tabellen und fügen sie der Lösung hinzu.
 1. Wählen Sie **Organisation** für **Datensatzbesitz** aus.
 
 1. Wählen Sie **Speichern**.
-
 
 ### Aufgabe 1.4 – Tabelle „Contact“ hinzufügen
 
@@ -115,7 +118,6 @@ In dieser Übung erstellen Sie Tabellen und fügen sie der Lösung hinzu.
 1. Wählen Sie **Weiter** aus.
 
 1. Wählen Sie **Hinzufügen** aus.
-
 
 ## Übung 2 – Spalten erstellen
 
@@ -132,12 +134,6 @@ In dieser Übung erstellen Sie Spalten für die Tabellen für die Lösung.
 1. Öffnen Sie die Lösung **Immobilienanzeigen**.
 
 1. Wählen Sie die Tabelle **Real Estate Property** aus.
-
-1. Wählen Sie **Eigenschaften** aus.
-
-    ![Screenshot der Tabelle „Real Estate Property“](../media/real-estate-property-table.png)
-
-1. Aktivieren Sie das Kontrollkästchen **Anlagen aktivieren**, und wählen Sie **Speichern** aus.
 
 1. Wählen Sie unter **Schema** **Spalten** aus.
 
@@ -213,7 +209,6 @@ In dieser Übung erstellen Sie Spalten für die Tabellen für die Lösung.
 
 1. Wählen Sie **Speichern**.
 
-
 ### Aufgabe 2.2 – „Showing“-Spalten erstellen
 
 1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
@@ -272,7 +267,6 @@ In dieser Übung erstellen Sie Spalten für die Tabellen für die Lösung.
 
 1. Wählen Sie **Speichern**.
 
-
 ### Aufgabe 2.3 – „Open House“-Spalten erstellen
 
 1. Wählen Sie im Bereich **Objekte** die Option **Alle**aus.
@@ -292,7 +286,6 @@ In dieser Übung erstellen Sie Spalten für die Tabellen für die Lösung.
 1. Wählen Sie in der Dropdownliste **Erforderlich** die Option **Geschäft erforderlich** aus.
 
 1. Wählen Sie **Speichern**.
-
 
 ## Übung 3 – Erstellen von Beziehungen
 
@@ -322,7 +315,6 @@ In dieser Übung erstellen Sie Beziehungen zwischen den Tabellen zu der Lösung.
 
 1. Wählen Sie **Fertig** aus.
 
-
 ### Aufgabe 3.2 – Beziehung von „Real Estate Property“ zu „Showing“
 
 1. Wählen Sie zunächst **+ Neue Beziehung** und dann **n:1** aus.
@@ -332,7 +324,6 @@ In dieser Übung erstellen Sie Beziehungen zwischen den Tabellen zu der Lösung.
 1. Wählen Sie in der Dropdownliste **Anforderung an „Lookup“-Spalte** die Option **Geschäft erforderlich** aus.
 
 1. Wählen Sie **Fertig** aus.
-
 
 ### Aufgabe 3.3 – Beziehung von „Real Estate Property“ zu „Open House“
 
@@ -347,7 +338,6 @@ In dieser Übung erstellen Sie Beziehungen zwischen den Tabellen zu der Lösung.
 1. Geben Sie `realestateproperty_openhouse` für **den Beziehungsnamen** ein.
 
 1. Wählen Sie **Fertig** aus.
-
 
 ### Aufgabe 3.4 – Beziehung von „Showing“ zu „Contact“
 
@@ -364,4 +354,3 @@ In dieser Übung erstellen Sie Beziehungen zwischen den Tabellen zu der Lösung.
 1. Geben Sie `Shown to` für **Anzeigename der „Lookup“-Spalte** ein.
 
 1. Wählen Sie **Fertig** aus.
-

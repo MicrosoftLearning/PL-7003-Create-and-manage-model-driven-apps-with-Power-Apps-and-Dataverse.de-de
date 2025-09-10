@@ -78,9 +78,11 @@ In dieser Übung ändern Sie das Hauptformular für die Tabelle „Real Estate P
 
     ![Screenshot des Hauptformulars mit Strukturansicht und Namen.](../media/main-form-tab-layout.png)
 
-1. Wählen Sie den ersten Abschnitt aus.
-
 1. Wählen Sie im linken Navigationsbereich im Formular-Designer **Tabellenspalten** aus.
+
+1. Ziehen Sie die Spalte **Statusgrund** in den Bereich **Kopfzeile**.
+
+1. Wählen Sie den ersten Abschnitt aus.
 
 1. Ziehen Sie die Spalte **Client** unter das Feld **Eigenschaftenname**.
 
@@ -90,7 +92,7 @@ In dieser Übung ändern Sie das Hauptformular für die Tabelle „Real Estate P
 
 1. Wählen Sie im linken Navigationsbereich im Formular-Designer **Komponenten** aus.
 
-1. Wählen Sie das Steuerelement **Abschnitt mit 1 Spalte** aus, um es im Formular hinzuzufügen.
+1. Wählen Sie das Steuerelement **Abschnitt mit 1 Spalte** aus, um es dem Formular unterhalb des Abschnitts „Allgemein“ hinzuzufügen.
 
 1. Geben Sie als **Bezeichnung** `Details`und als**Name** `detailsSection` ein.
 
@@ -105,7 +107,6 @@ In dieser Übung ändern Sie das Hauptformular für die Tabelle „Real Estate P
 1. Wählen Sie die Spalte **Bathrooms** (Bäder) aus, um sie im Formular unter **Bedrooms** (Schlafzimmer) hinzuzufügen.
 
     ![Screenshot des Hauptformulars mit Tabellenspalten.](../media/main-form-first-tab.png)
-
 
 ### Aufgabe 1.2: Hinzufügen eines Zeitachsen-Steuerelements
 
@@ -131,11 +132,6 @@ In dieser Übung ändern Sie das Hauptformular für die Tabelle „Real Estate P
 
 1. Wählen Sie im Bereich **Eigenschaften** auf der rechten Seite in der Dropdownliste **Aktivitäten sortieren nach** die Option **Erstellungsdatum** aus.
 
-1. Wählen Sie im linken Navigationsbereich im Formular-Designer **Tabellenspalten** aus.
-
-1. Ziehen Sie die Spalte **Statusgrund** in den Bereich **Kopfzeile**.
-
-
 ### Aufgabe 1.3: Hinzufügen eines Schnellansicht-Steuerelements
 
 1. Wählen Sie die **Strukturansicht** auf der linken Seite des Formular-Designers aus.
@@ -149,7 +145,6 @@ In dieser Übung ändern Sie das Hauptformular für die Tabelle „Real Estate P
 1. Wählen Sie das **Schnellansicht**-Steuerelement aus, um es im Abschnitt **Zugehörig** hinzuzufügen.
 
 1. Wählen Sie für **Lookup** die Option **Client** und für **account contact card** (Kontokontakt) die Option **Contact** (Kontakt) und dann **Fertig** aus.
-
 
 ### Aufgabe 1.4: Hinzufügen einer Registerkarte
 
@@ -183,7 +178,6 @@ In dieser Übung ändern Sie das Hauptformular für die Tabelle „Real Estate P
 
 1. Wählen Sie **Fertig** aus.
 
-
 ## Übung 2: Anzeigen des Hauptformulars
 
 In dieser Übung ändern Sie das Hauptformular für die Tabelle „Showings“ (Anzeigen).
@@ -216,7 +210,7 @@ In dieser Übung ändern Sie das Hauptformular für die Tabelle „Showings“ (
 
 1. Wählen Sie die Spalte **Showing Date** (Anzeigedatum) aus, um sie Formular unter **Shown by** (Anzeige von) hinzuzufügen.
 
-1. Wählen Sie die Spalte **Level of Interest** (Interessenebene) aus, um sie im Formular unter **Showing Date** (Anzeigedatum) hinzuzufügen.
+1. Wählen Sie die Spalte **Relevante Ebene** aus, um sie im Formular unter **Anzeigedatum** hinzuzufügen.
 
 1. Wählen Sie die Spalte **Comments** (Kommentare) aus, um sie im Formular unter **Level of Interest** (Interessenebene) hinzuzufügen.
 
@@ -227,7 +221,6 @@ In dieser Übung ändern Sie das Hauptformular für die Tabelle „Showings“ (
 1. **Schließen** Sie den Formular-Designer.
 
 1. Wählen Sie **Fertig** aus.
-
 
 ## Übung 3: Mehrere Formulare
 
@@ -247,20 +240,39 @@ In dieser Übung erstellen Sie ein neues Formular und beschränken den Zugriff m
 
 1. Geben Sie als **Rollennamen** `Property admin` ein.
 
-1. Wählen Sie **Unternehmenseinheit** aus und speichern Sie die Auswahl.
+1. Wählen Sie die **Stammgunternehmenseinheit** und dann **Speichern** aus.
 
-1. Blättern Sie nach unten zum Abschnitt **Benutzerdefinierte Tabellen**.
+1. Geben Sie `cre_` in **Nach Tabellennamen suchen** oben rechts auf der Seite ein.
 
-1. Wählen Sie die Tabelle **Real Estate Property** aus. Ändern Sie die Zugriffsebene für alle Berechtigungen auf **Organisation**.
+1. Wählen Sie in der Dropdownliste auf der linken Seite der Seite **Alle Tabellen anzeigen** aus.
 
-    ![Berechtigungen für „Real Estate Propery“ in Sicherheitsrolle.](../media/security-role.png)
+1. Wählen Sie die Tabelle **Real Estate Property** aus.
 
-1. Wählen Sie die Tabelle **Showing** aus. Ändern Sie die Zugriffsebene für alle Berechtigungen auf **Organisation**.
+1. Wählen Sie das Menü **Befehle** (...) und **Berechtigungseinstellungen** aus.
 
-1. Klicken Sie auf **Speichern und schließen**.
+1. Wählen Sie **Vollzugriff** aus, um die Zugriffsebene für alle Berechtigungen in **Organisation** zu ändern.
 
-1. Klicken Sie auf **Fertig**.
+1. Wählen Sie **Speichern**.
 
+    ![Berechtigungen für „Immobilienobjekt“ in Sicherheitsrolle.](../media/security-role.png)
+
+1. Wählen Sie die Tabelle **Showing** aus.
+
+1. Wählen Sie das Menü **Befehle** (...) und **Berechtigungseinstellungen** aus.
+
+1. Wählen Sie **Vollzugriff** aus, um die Zugriffsebene für alle Berechtigungen in **Organisation** zu ändern.
+
+1. Wählen Sie **Speichern**.
+
+1. Wählen Sie die Tabelle **Open House** aus.
+
+1. Wählen Sie das Menü **Befehle** (...) und **Berechtigungseinstellungen** aus.
+
+1. Wählen Sie **Vollzugriff** aus, um die Zugriffsebene für alle Berechtigungen in **Organisation** zu ändern.
+
+1. Wählen Sie **Speichern**.
+
+1. Wählen Sie **<- Zurück** aus.
 
 ### Aufgabe 3.2: Kopieren des Formulars
 
@@ -270,9 +282,9 @@ In dieser Übung erstellen Sie ein neues Formular und beschränken den Zugriff m
 
 1. Wählen Sie das Formular **Information** mit dem **Formulartyp** **Main** (Hauptformular), anschließend das Menü **Befehle** (...) und dann **Bearbeiten** > **Auf neuer Registerkarte bearbeiten** aus.
 
-1. Wählen Sie **Level of Interest** (Interessenebene) und im Bereich „Eigenschaften“ die Option **Schreibgeschützt** aus.
+1. Wählen Sie **Relevante Ebene** und im Bereich „Eigenschaften“ die Option **Schreibgeschützt** aus.
 
-1. Wählen Sie **Comments** (Kommentare) und im Bereich „Eigenschaften“ die Option **Schreibgeschützt** aus.
+1. Wählen Sie **Kommentare** und im Bereich „Eigenschaften“ die Option **Schreibgeschützt** aus.
 
 1. Wählen Sie **Kopie speichern** aus.
 
@@ -291,7 +303,6 @@ In dieser Übung erstellen Sie ein neues Formular und beschränken den Zugriff m
 1. **Schließen** Sie den Formular-Designer.
 
 1. Wählen Sie **Fertig** aus.
-
 
 ## Übung 4: Immobilienansichten
 
@@ -337,7 +348,6 @@ In dieser Übung ändern Sie die Ansichten für die Tabelle „Real Estate Prope
 
 1. Wählen Sie **Fertig** aus.
 
-
 ### Aufgabe 4.2: Ansicht für die Schnellsuche nach Immobilien
 
 1. Wählen Sie die Ansicht **Quick Find Aktive Real Estate Properties** (Schnellsuche nach aktive Immobilienanzeigen), anschließend das Menü **Befehle** (...) und dann **Bearbeiten** > **Auf neuer Registerkarte bearbeiten** aus.
@@ -357,7 +367,6 @@ In dieser Übung ändern Sie die Ansichten für die Tabelle „Real Estate Prope
 1. **Schließen** Sie den Ansichts-Designer.
 
 1. Wählen Sie **Fertig** aus.
-
 
 ## Übung 5: Anzeigen von Ansichten
 
@@ -400,7 +409,6 @@ In dieser Übung ändern Sie die Ansichten für die Tabelle „Showings“ (Anze
 1. Wählen Sie im Bereich „Eigenschaften“ **Sortieren nach** und dann **Showing Date** (Angebotsdatum) aus.
 
 1. Wählen Sie im Dropdownmenü **Speichern und veröffentlichen** die Option **Nur speichern** aus.
-
 
 ### Aufgabe 5.2: Neue Anzeigeansicht
 
