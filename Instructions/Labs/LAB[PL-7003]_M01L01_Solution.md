@@ -43,7 +43,7 @@ In dieser Übung greifen Sie auf das Power Apps Maker-Portal, die Entwicklerumge
 
     ![Wählen Sie im Power Apps Maker-Portal die Entwicklungsumgebung aus.](../media/select-dev-one-environment.png)
 
-1. Wählen Sie im linken Navigationsbereich **Apps** und dann **Alle** aus. Es sollten mehrere Apps angezeigt werden, darunter Dataverse Accelerator-App, Solution Health Hub und Power Pages Management.
+1. Wählen Sie im linken Navigationsbereich **Apps** und dann **Alle** aus. Es sollten mehrere Apps angezeigt werden, darunter Power Pages Management, Lösungsintegritätshub und Power Platform Environment Settings.
 
 1. Wählen Sie **Tabellen** im linken Navigationsbereich aus. Die Standardtabellen aus dem *Common Data Model*, einschließlich Konto und Kontakt, sollten angezeigt werden.
 

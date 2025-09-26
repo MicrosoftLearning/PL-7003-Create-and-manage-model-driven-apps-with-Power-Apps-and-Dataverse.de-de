@@ -38,6 +38,8 @@ In dieser Übung überprüfen Sie, ob Sie auf Power Apps zugreifen können.
 
 1. Optional können Sie **Ja** auswählen, um angemeldet zu bleiben.
 
+1. Wählen Sie optional **Nein, danke** aus, um sich bei Microsoft Edge anzumelden.
+
 1. Wenn Sie zur Eingabe von Kontaktinformationen aufgefordert werden, behalten Sie für Land/Region die Standardwerte bei, geben Sie `0123456789` als Telefonnummer ein, und wählen Sie **Übermitteln** aus.
 
 1. Aktualisieren Sie die Seite. Überprüfen Sie oben rechts auf dem Bildschirm, ob die **Umgebung** auf **Dev One** festgelegt ist. Hier arbeiten Sie während des gesamten Labs. Wenn sie nicht festgelegt ist, wählen Sie die Umgebung **Dev One** aus.
